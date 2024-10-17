@@ -1,0 +1,16 @@
+{
+  "name": "sprunky",
+  "version": "1.1.0",
+  "description": "Sprunky.io: Play Sprunky Incredibox Game Online For Free",
+  "main": "index.js",
+  "bin": {
+    "sprunky": "./index.js"
+  },
+  "keywords": [
+    "sprunky",
+    "incredibox",
+    "sprunky incredibox"
+  ],
+  "author": "sprunky",
+  "license": "ISC"
+}
